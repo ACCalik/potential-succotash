@@ -1,0 +1,8 @@
+body {
+  font-family: sans-serif;
+  margin: 1rem;
+}
+nav a {
+  margin-right: 0.5rem;
+  text-decoration: underline;
+}
