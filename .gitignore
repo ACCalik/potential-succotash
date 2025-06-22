@@ -1,0 +1,6 @@
+/build/
+.gradle/
+*.iml
+local.properties
+# Ignore gradle wrapper jar to avoid binary file
+**/gradle-wrapper.jar

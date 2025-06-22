@@ -1,5 +1,15 @@
-echo "# potential-succotash" > README.md
-echo "node_modules/" > .gitignore
-git add README.md .gitignore
-git commit -m "Initialisiere das Repository mit README und .gitignore"
-git push origin main
+# MP4C Health Protocol App
+
+This repository contains a minimal Kotlin Android project. It demonstrates
+internationalization with German (default), English and Turkish translations.
+All resources are plain text. No binaries or media files are included.
+
+## Build
+
+```bash
+./gradlew assembleDebug
+```
+
+## Lizenz
+
+Diese Beispiel-App steht unter der MIT-Lizenz.
